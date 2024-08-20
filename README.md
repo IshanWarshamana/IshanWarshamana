@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3yBZj9tHgNqvhkhv7ZdjJI&ust=1724238475313000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPiS74C3g4gDFQAAAAAdAAAAABAE)
+[![MasterHead](https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966)
 <h1 align="center">Hi 👋, I'm Ishan Warshamana</h1>
 <h3 align="center">Sri Lankan Aspiring Software Engineer | Computer Science Enthusiast💡🌟</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"
