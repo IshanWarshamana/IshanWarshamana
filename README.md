@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/20ba1b87416f6e74a4debebec7a695504eec286a3a0a082f8cc6063ab1353dbe/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a4647443642557a7a5a7331564a4c75592e676966)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40gavizoid16%2Fthings-to-do-after-a-coding-bootcamp-9523cd61be91&psig=AOvVaw2-dmYIonat0kw1g-O-khQo&ust=1724238121081000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCODRsdq1g4gDFQAAAAAdAAAAABAK)
 <h1 align="center">Hi 👋, I'm Ishan Warshamana</h1>
 <h3 align="center">Sri Lankan Aspiring Software Engineer | Computer Science Enthusiast💡🌟</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"
